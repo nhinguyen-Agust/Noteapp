@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "197399888618",
+    "firebase_url": "https://note-11a66-default-rtdb.firebaseio.com",
+    "project_id": "note-11a66",
+    "storage_bucket": "note-11a66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197399888618:android:6b34e7e23b5de6c78a0d93",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7R1HqSA8DkaDpECIFhCujpDPjd5fsAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
